@@ -1,0 +1,21 @@
+{
+  "name": "Bayan Escort VIP",
+  "short_name": "EscortVIP",
+  "description": "Bayan Escort VIP - Premium Escort İlanları İsviçre",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#9c27b0",
+  "icons": [
+    {
+      "src": "https://6love.ch/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://6love.ch/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
